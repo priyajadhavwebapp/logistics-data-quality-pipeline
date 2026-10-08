@@ -1,0 +1,222 @@
+Shipment_ID,Order_Date,Origin,Destination,Transport_Mode,Carrier,Distance_km,Shipment_Weight_kg,Shipment_Volume_units,Promised_Delivery_Days,Actual_Delivery_Days,Transportation_Cost_INR,Delivery_Status
+SHP10001,2026-04-13,Hyderabad,Pune,Road,DTDC,1228.1,65.15,39,1,6.2,10923.59,Delayed
+SHP10002,2026-02-21,Mysuru,Mysuru,Air,DTDC,815.6,14.27,38,3,3.0,15250.68,On Time
+SHP10003,2026-04-03,Pune,Mysuru,Air,Delhivery,607.4,6.36,31,2,2.7,11708.5,Delayed
+SHP10004,2026-01-15,Mangaluru,Mangaluru,Road,DHL,807.9,9.9,29,4,6.9,6611.83,Delayed
+SHP10005,2026-04-17,Mumbai,Chennai,Road,DHL,164.5,28.7,43,5,6.4,2275.63,Delayed
+SHP10006,2026-03-13,Hubballi,Hyderabad,Rail,Ecom Express,886.7,14.24,42,7,7.8,5303.02,Delayed
+SHP10007,2026-03-02,Bengaluru,Bengaluru,Road,Delhivery,122.6,5.55,39,5,4.3,1690.7,On Time
+SHP10008,2026-01-21,Mumbai,Hubballi,Sea,Delhivery,1086.2,5.14,36,3,8.8,4507.39,Delayed
+SHP10009,2026-04-13,Hyderabad,Mumbai,Sea,Delhivery,314.6,,30,7,9.4,2601.68,Delayed
+SHP10010,2026-03-24,Bengaluru,Pune,Road,Delhivery,697.0,21.34,52,4,5.0,5903.81,Delayed
+SHP10011,2026-03-28,Bengaluru,Bengaluru,Road,DHL,685.2,7.48,28,1,4.4,5707.79,Delayed
+SHP10012,2026-03-16,Bengaluru,Chennai,Sea,DHL,1161.9,19.41,41,5,9.7,5349.55,Delayed
+SHP10013,2026-03-16,Mysuru,Hubballi,Road,Delhivery,875.3,15.49,39,3,5.6,7294.45,Delayed
+SHP10014,2026-03-29,Hyderabad,Chennai,Road,Ecom Express,774.6,7.85,38,4,6.4,6148.98,Delayed
+SHP10015,2026-04-27,Bengaluru,Pune,Rail,BlueDart,514.9,41.53,43,4,6.3,,Delayed
+SHP10016,2026-04-10,Hubballi,Mysuru,Rail,BlueDart,1299.9,33.54,30,4,7.9,8155.97,Delayed
+SHP10017,2026-04-14,Chennai,Hubballi,Sea,Ecom Express,126.3,25.6,32,4,6.9,1466.35,Delayed
+SHP10018,2026-01-24,Bengaluru,Mysuru,Sea,Delhivery,757.3,28.74,36,7,10.2,4265.81,Delayed
+SHP10019,2026-01-03,Mysuru,Pune,Sea,DHL,2198.3,27.22,29,4,11.9,9473.32,Delayed
+SHP10020,2026-01-22,Mumbai,Bengaluru,Rail,BlueDart,585.6,12.67,44,5,6.8,3808.73,Delayed
+SHP10021,2026-02-22,Hyderabad,Pune,Air,DTDC,1036.9,16.46,39,3,6.5,19396.1,Delayed
+SHP10022,2026-01-02,Pune,Bengaluru,Rail,DTDC,1390.1,32.96,38,7,10.6,8140.18,Delayed
+SHP10023,2026-03-29,Mysuru,Hubballi,Rail,Ecom Express,260.4,9.81,34,4,5.4,2044.38,Delayed
+SHP10024,2026-04-18,Bengaluru,Hubballi,Road,Delhivery,356.5,30.14,28,2,4.4,4294.99,Delayed
+SHP10025,2026-01-30,Hyderabad,Hyderabad,Air,BlueDart,790.6,16.96,42,2,3.6,15296.91,Delayed
+SHP10026,2026-02-07,Chennai,Chennai,road,Delhivery,595.3,6.81,32,3,5.0,11352.61,Delayed
+SHP10027,2026-01-02,Bengaluru,Hyderabad,Rail,BlueDart,833.0,28.4,31,1,5.8,5529.48,Delayed
+SHP10028,2026-03-05,Mysuru,Chennai,Air,Ecom Express,304.0,22.82,42,1,2.0,6565.0,Delayed
+SHP10029,2026-03-01,Mangaluru,Hyderabad,Rail,Ecom Express,373.8,18.36,34,7,8.0,3006.32,Delayed
+SHP10030,2026-01-21,Hubballi,Mysuru,Road,DTDC,1023.4,27.77,31,7,6.8,8383.49,On Time
+SHP10031,2026-02-02,Pune,Hubballi,Road,Delhivery,368.2,20.38,35,7,5.6,3872.26,On Time
+SHP10032,2026-03-17,Mumbai,Bengaluru,Road,DTDC,398.6,14.13,35,1,2.3,3844.33,Delayed
+SHP10033,2026-02-27,Mysuru,Chennai,Road,Delhivery,250.8,22.34,39,2,3.7,3010.55,Delayed
+SHP10034,2026-01-22,Hyderabad,Pune,Road,DTDC,273.9,35.28,27,1,4.6,3488.85,Delayed
+SHP10035,2026-04-18,Pune,Chennai,Rail,DHL,1068.9,54.06,36,5,10.2,7525.49,Delayed
+SHP10036,2026-03-30,Pune,Bengaluru,Road,DHL,354.3,32.76,41,4,5.5,4039.36,Delayed
+SHP10037,2026-02-18,Pune,Hyderabad,Rail,DHL,308.1,42.97,34,7,7.9,3361.81,Delayed
+SHP10038,2026-04-01,Bengaluru,Chennai,Road,DHL,606.0,,42,2,2.8,5070.07,Delayed
+SHP10039,2026-02-28,Hubballi,Mumbai,Rail,BlueDart,511.0,59.66,35,3,5.2,4674.43,Delayed
+SHP10040,2026-02-11,Bengaluru,Mysuru,Road,DHL,808.6,11.76,36,3,4.8,6619.53,Delayed
+SHP10041,2026-04-02,Hyderabad,Hubballi,Road,Ecom Express,411.1,23.09,41,4,4.5,4335.26,Delayed
+SHP10042,2026-03-01,Bengaluru,Bengaluru,Road,Ecom Express,554.7,20.42,32,2,4.1,4792.56,Delayed
+SHP10043,2026-03-21,Mangaluru,Hubballi,Rail,BlueDart,257.6,5.7,51,1,3.6,1684.97,Delayed
+SHP10044,2026-01-15,Hubballi,Mumbai,Road,DHL,616.2,33.24,45,1,2.1,5847.02,Delayed
+SHP10045,2026-03-03,Hubballi,Chennai,Sea,DHL,348.3,14.1,28,5,8.8,2177.5,Delayed
+SHP10046,2026-03-03,Hyderabad,Chennai,Road,DHL,848.5,9.07,28,5,5.7,6844.36,Delayed
+SHP10047,2026-02-16,Mumbai,Pune,Road,DTDC,673.2,21.85,46,1,4.2,5952.75,Delayed
+SHP10048,2026-03-03,Mangaluru,Mumbai,Sea,Delhivery,534.2,11.8,38,3,9.4,2770.18,Delayed
+SHP10049,2026-02-20,Mysuru,Bengaluru,Road,DTDC,563.0,32.02,22,7,6.2,5668.34,On Time
+SHP10050,2026-04-18,Bengaluru,Pune,Road,Delhivery,944.5,13.13,38,3,3.5,7329.88,Delayed
+SHP10051,2026-02-24,Chennai,Mysuru,Rail,DHL,316.8,16.25,34,5,6.1,2403.23,Delayed
+SHP10052,2026-04-26,Bengaluru,Pune,Rail,DHL,195.0,40.72,34,4,6.5,2585.57,Delayed
+SHP10053,2026-03-05,Pune,Mangaluru,Air,DTDC,410.0,11.89,32,1,4.1,7867.15,Delayed
+SHP10054,2026-01-03,Bengaluru,Bengaluru,Road,DTDC,137.2,16.79,39,5,3.8,1876.31,On Time
+SHP10055,2026-04-11,Mysuru,Mangaluru,Road,Delhivery,624.7,35.45,39,5,6.6,6239.5,Delayed
+SHP10056,2026-02-20,Bengaluru,Mumbai,Rail,Ecom Express,961.0,21.27,44,7,8.6,6046.52,Delayed
+SHP10057,2026-01-07,Mangaluru,Hyderabad,Sea,Delhivery,1657.0,8.18,37,1,9.1,7017.17,Delayed
+SHP10058,2026-01-21,Mangaluru,Mangaluru,Rail,DTDC,1361.4,5.44,41,7,12.4,7454.77,Delayed
+SHP10059,2026-03-14,Hubballi,Mysuru,Road,DTDC,432.6,11.2,30,1,2.1,3767.37,Delayed
+SHP10060,2026-02-08,Hyderabad,Pune,Rail,BlueDart,603.5,23.82,33,7,8.4,4187.62,Delayed
+SHP10061,2026-01-18,Mumbai,Hyderabad,Air,DTDC,325.3,42.42,32,3,3.7,7435.97,Delayed
+SHP10062,2026-01-04,Chennai,Pune,Road,BlueDart,855.1,34.67,40,4,7.1,7808.18,Delayed
+SHP10063,2026-03-30,Pune,Mangaluru,Road,Ecom Express,986.3,9.49,39,4,6.6,7917.46,Delayed
+SHP10064,2026-03-01,Bengaluru,Pune,Road,Delhivery,132.6,14.43,52,1,3.0,1608.7,Delayed
+SHP10065,2026-01-14,Bengaluru,Mumbai, ROAD ,Delhivery,1752.0,41.35,29,2,6.9,14266.57,Delayed
+SHP10066,2026-04-24,Mysuru,Hyderabad,Road,BlueDart,575.1,4.2,34,5,6.2,4798.0,Delayed
+SHP10067,2026-01-09,Hyderabad,Mumbai,Road,Delhivery,573.3,19.06,40,5,5.7,5316.67,Delayed
+SHP10068,2026-03-31,Mangaluru,Mangaluru,Road,DTDC,878.8,9.41,27,1,5.1,7325.34,Delayed
+SHP10069,2026-02-22,Chennai,Mumbai,Road,DHL,533.8,43.65,27,7,6.7,5332.84,On Time
+SHP10070,2026-01-02,Hubballi,Mysuru,Sea,BlueDart,548.3,39.83,44,2,7.3,3502.83,Delayed
+SHP10071,2026-03-25,Mangaluru,Mangaluru,Air,Delhivery,184.5,21.19,29,3,2.9,4137.96,On Time
+SHP10072,2026-04-02,Pune,Mangaluru,Road,BlueDart,311.0,12.89,42,7,7.4,3008.0,Delayed
+SHP10073,2026-04-21,Hyderabad,Mangaluru,Sea,BlueDart,762.3,49.02,44,7,10.2,4803.24,Delayed
+SHP10074,2026-03-01,Pune,Bengaluru,Rail,DHL,680.7,10.37,39,1,3.5,4457.72,Delayed
+SHP10075,2026-03-12,Mumbai,Pune,Road,DTDC,1054.5,23.32,40,1,6.1,8681.69,Delayed
+SHP10076,2026-02-13,Hubballi,Bengaluru,Road,BlueDart,870.4,17.23,38,5,5.9,7141.75,Delayed
+SHP10077,2026-01-08,Mumbai,Bengaluru,Road,Delhivery,890.2,37.15,34,1,4.0,,Delayed
+SHP10078,2026-02-16,Mysuru,Mysuru,Road,Ecom Express,395.8,4.36,36,1,2.8,3271.51,Delayed
+SHP10079,2026-02-04,Pune,Hyderabad,Rail,BlueDart,403.4,25.07,41,1,5.6,3625.76,Delayed
+SHP10080,2026-03-19,Mysuru,Pune,Rail,BlueDart,894.7,29.25,35,5,5.9,5632.06,Delayed
+SHP10081,2026-03-22,Bengaluru,Mumbai,Road,DHL,430.0,40.8,28,3,7.3,4721.65,Delayed
+SHP10082,2026-02-05,Mumbai,Chennai,Sea,DTDC,682.7,12.69,38,3,8.8,3763.83,Delayed
+SHP10083,2026-02-19,Hyderabad,Mangaluru,Air,Ecom Express,580.6,11.53,31,1,3.0,11224.86,Delayed
+SHP10084,2026-04-14,Pune,Mumbai,Road,Delhivery,296.5,10.1,39,5,5.2,2833.39,Delayed
+SHP10085,2026-01-04,Chennai,Mangaluru,Sea,Ecom Express,511.3,10.8,30,3,7.7,2631.0,Delayed
+SHP10086,2026-01-02,Hubballi,Mysuru,Sea,Delhivery,233.6,43.63,29,7,9.4,2526.85,Delayed
+SHP10087,2026-01-06,Mangaluru,Mangaluru,Sea,DTDC,332.3,26.06,34,3,7.6,2689.53,Delayed
+SHP10088,2026-02-23,Hyderabad,Bengaluru,Road,Delhivery,1181.4,4.61,44,3,6.9,8687.02,Delayed
+SHP10089,2026-04-16,Hyderabad,Pune,Air,DHL,283.8,22.14,40,5,4.3,6454.34,On Time
+SHP10090,2026-01-04,Mysuru,Chennai,Road,DHL,467.6,7.05,31,7,6.6,3757.81,On Time
+SHP10091,2026-02-23,Mumbai,Hubballi,Rail,DHL,867.0,16.96,23,5,7.6,5385.28,Delayed
+SHP10092,2026-04-03,Pune,Mangaluru,Sea,dhl,706.7,16.64,38,1,6.6,3524.12,Delayed
+SHP10093,2026-03-04,Pune,Mumbai,Rail,Ecom Express,339.5,17.29,38,4,6.9,2805.46,Delayed
+SHP10094,2026-01-18,Bengaluru,Bengaluru,Air,DTDC,529.0,9.36,39,3,4.3,9946.42,Delayed
+SHP10095,2026-03-31,Bengaluru,Hubballi,Sea,Delhivery,383.2,21.87,42,4,5.0,2601.71,Delayed
+SHP10096,2026-02-13,Hubballi,Chennai,Air,Delhivery,628.4,26.58,34,5,5.7,12869.82,Delayed
+SHP10097,2026-02-03,Mysuru,Hubballi,Road,DHL,850.8,6.18,40,5,6.9,6503.43,Delayed
+SHP10098,2026-03-15,Hyderabad,Bengaluru,Road,DHL,307.9,18.03,34,5,5.3,3205.87,Delayed
+SHP10099,2026-03-03,Pune,Pune,Road,BlueDart,1884.7,17.83,42,4,8.4,14399.92,Delayed
+SHP10100,2026-04-10,Chennai,Pune,Sea,DTDC,469.4,23.76,40,5,9.4,2975.66,Delayed
+SHP10101,2026-01-14,Mysuru,Hyderabad,Road,Ecom Express,417.1,17.53,29,1,4.2,3947.41,Delayed
+SHP10102,2026-04-05,Hubballi,Pune,Road,Delhivery,1097.2,3.46,36,5,6.6,8331.25,Delayed
+SHP10103,2026-02-17,Hubballi,Hyderabad,Road,BlueDart,466.9,,41,2,4.4,4705.9,Delayed
+SHP10104,2026-01-15,Mysuru,Hubballi,Rail,BlueDart,979.6,26.53,49,4,6.6,6611.54,Delayed
+SHP10105,2026-03-13,Hubballi,Mysuru,Sea,Delhivery,707.2,11.99,29,2,6.1,3438.72,Delayed
+SHP10106,2026-03-19,Mysuru,Mumbai,Sea,Ecom Express,570.1,13.25,37,5,8.1,3116.94,Delayed
+SHP10107,2026-03-28,Mangaluru,Mumbai,Road,BlueDart,515.5,11.04,41,1,4.4,4237.93,Delayed
+SHP10108,2026-03-03,Mysuru,Hubballi,Sea,BlueDart,270.5,28.11,43,3,7.7,2092.82,Delayed
+SHP10109,2026-02-09,Mumbai,Mangaluru,Rail,DTDC,618.3,14.47,34,7,8.7,4155.35,Delayed
+SHP10110,2026-03-26,Mysuru,Mangaluru,Road,Ecom Express,452.2,12.71,36,7,7.4,4328.86,Delayed
+SHP10111,2026-03-21,Hubballi,Pune,Rail,BlueDart,648.7,28.88,48,5,7.6,4695.89,Delayed
+SHP10112,2026-04-19,Pune,Mumbai,Road,Ecom Express,283.0,31.63,38,1,2.5,3316.89,Delayed
+SHP10113,2026-03-23,Mumbai,Mumbai,Road,Delhivery,283.5,4.98,41,4,5.1,2630.51,Delayed
+SHP10114,2026-04-21,Hubballi,Hyderabad,Rail,DHL,173.8,27.68,24,2,5.1,1903.73,Delayed
+SHP10115,2026-02-22,Bengaluru,Mysuru,Road,BlueDart,331.8,2.59,28,2,4.4,3020.29,Delayed
+SHP10116,2026-01-24,Bengaluru,Bengaluru,Road,DTDC,508.1,12.86,46,2,5.2,4627.22,Delayed
+SHP10117,2026-01-26,Pune,Mangaluru,Road,Delhivery,445.1,15.56,22,4,5.8,4009.02,Delayed
+SHP10118,2026-03-30,Pune,Mumbai,Road,Ecom Express,361.2,34.54,32,7,6.9,3933.15,On Time
+SHP10119,2026-03-01,Mumbai,Hyderabad,Road,Delhivery,752.7,24.93,34,1,5.2,6615.34,Delayed
+SHP10120,2026-04-19,Mangaluru,Chennai,Rail,BlueDart,892.4,4.26,43,4,7.2,5131.15,Delayed
+SHP10121,2026-02-10,Pune,Hyderabad,Air,Ecom Express,1015.2,17.88,29,2,3.6,19212.34,Delayed
+SHP10122,2026-01-29,Bengaluru,Mangaluru,Air,DHL,762.4,41.65,37,5,5.3,15717.35,Delayed
+SHP10123,2026-01-15,Mysuru,Mangaluru,Air,Delhivery,1048.5,19.78,33,3,4.4,19832.38,Delayed
+SHP10124,2026-02-14,Hubballi,Hyderabad,Air,BlueDart,900.3,13.17,26,4,4.6,16959.66,Delayed
+SHP10125,2026-03-06,Bengaluru,Bengaluru,Rail,DTDC,561.1,34.41,40,4,6.3,4214.64,Delayed
+SHP10126,2026-03-30,Bengaluru,Hubballi,Road,Ecom Express,389.4,17.39,34,1,2.6,3874.55,Delayed
+SHP10127,2026-03-12,Mangaluru,Mangaluru,Road,Delhivery,154.4,20.48,41,1,2.5,2102.5,Delayed
+SHP10128,2026-01-09,Mumbai,Hyderabad,Road,Delhivery,452.4,5.27,29,4,3.4,3737.95,On Time
+SHP10129,2026-03-29,Mumbai,Mumbai,Road,DHL,475.5,14.92,30,2,4.3,4529.19,Delayed
+SHP10130,2026-01-01,Hyderabad,Hyderabad,Road,DHL,486.1,51.39,53,3,4.7,5644.37,Delayed
+SHP10131,2026-04-18,Mangaluru,Mysuru,Road,DTDC,-120.0,19.18,34,1,4.2,8434.64,Delayed
+SHP10132,2026-01-08,Mysuru,Hubballi,Air,DTDC,92.7,8.58,39,2,2.7,2022.86,Delayed
+SHP10133,2026-03-29,Mumbai,Chennai,Sea,BlueDart,847.0,17.79,34,5,10.2,4348.07,Delayed
+SHP10134,2026-03-04,Hubballi,Bengaluru,Rail,BlueDart,148.2,7.09,42,1,2.3,1295.93,Delayed
+SHP10135,2026-01-11,Pune,Pune,Road,DTDC,104.3,16.63,38,2,2.5,1808.91,Delayed
+SHP10136,2026-04-25,Mangaluru,Chennai,Road,DTDC,1021.6,10.44,43,2,4.8,7743.22,Delayed
+SHP10137,2026-03-22,Pune,Hubballi,Sea,Ecom Express,583.4,8.13,29,3,6.8,3055.23,Delayed
+SHP10138,2026-01-08,Bengaluru,Hubballi,Sea,DHL,1064.8,14.42,31,3,9.6,4681.99,Delayed
+SHP10139,2026-02-04,Hubballi,Hubballi,Road,BlueDart,778.0,26.44,43,5,6.3,6923.46,Delayed
+SHP10140,2026-02-04,Hubballi,Chennai,Rail,DHL,609.3,21.78,41,2,5.2,4230.77,Delayed
+SHP10141,2026-02-02,Bengaluru,Mumbai,Road,DHL,524.2,2.31,41,7,5.2,4117.21,On Time
+SHP10142,2026-01-05,Mangaluru,Hubballi,Road,DTDC,744.1,18.81,42,2,5.3,6260.93,Delayed
+SHP10143,2026-04-16,Bengaluru,Hyderabad,Road,Ecom Express,481.2,56.51,33,3,3.5,5620.46,Delayed
+SHP10144,2026-04-13,Pune,Chennai,Road,Delhivery,522.9,7.09,37,7,7.0,4432.46,On Time
+SHP10145,2026-02-10,Hyderabad,Pune,Sea,Ecom Express,384.6,21.78,41,1,6.3,2626.51,Delayed
+SHP10146,2026-01-28,Hubballi,Hubballi,Rail,Ecom Express,329.9,19.67,28,1,5.4,3072.0,Delayed
+SHP10147,2026-01-07,Chennai,Hyderabad,Road,DHL,473.4,39.26,29,4,4.0,4676.2,On Time
+SHP10148,2026-03-14,Chennai,Mumbai,Air,Ecom Express,164.4,24.86,49,3,0.5,4396.38,On Time
+SHP10149,2026-03-13,Pune,Mysuru,Sea,BlueDart,447.2,21.51,41,4,8.0,2770.42,Delayed
+SHP10150,2026-01-12,Mysuru,Mumbai,Sea,DHL,197.7,10.55,37,7,10.5,1334.88,Delayed
+SHP10151,2026-02-03,Mumbai,Pune,Road,BlueDart,742.5,21.17,33,3,6.4,6149.3,Delayed
+SHP10152,2026-02-02,Bengaluru,Hubballi,Road,Delhivery,461.5,22.13,34,5,5.9,4358.4,Delayed
+SHP10153,2026-02-17,Bengaluru,Pune,Road,DHL,314.4,12.33,34,2,3.2,3224.82,Delayed
+SHP10154,2026-04-29,Mysuru,Chennai,Road,Delhivery,363.5,10.71,34,5,6.2,3344.12,Delayed
+SHP10155,2026-01-23,Mysuru,Mangaluru,Road,DHL,806.4,7.85,35,7,6.8,6747.89,On Time
+SHP10156,2026-03-03,Pune,Hubballi,Rail,DTDC,605.2,5.62,30,3,6.4,3493.19,Delayed
+SHP10157,2026-03-29,Pune,Mangaluru,Road,Ecom Express,857.7,25.76,33,7,8.2,7344.54,Delayed
+SHP10158,2026-02-06,Mysuru,Hyderabad,Road,DTDC,502.0,11.67,32,2,5.1,4165.73,Delayed
+SHP10159,2026-04-09,Hubballi,Mysuru,Road,Delhivery,546.1,9.58,38,1,6.2,4715.61,Delayed
+SHP10160,2026-02-13,Pune,Bengaluru,Road,Ecom Express,735.6,3.41,45,1,4.5,6001.44,Delayed
+SHP10161,2026-04-14,Hyderabad,Pune,Road,DHL,396.6,3.08,35,7,6.2,3316.02,On Time
+SHP10162,2026-03-27,Pune,Mumbai,Road,Ecom Express,417.8,30.47,29,4,5.0,3842.56,Delayed
+SHP10163,2026-04-01,Bengaluru,Mysuru,Road,BlueDart,500.1,10.94,34,3,3.1,4392.85,Delayed
+SHP10164,2026-02-04,Pune,Hubballi,Road,Ecom Express,697.9,17.86,29,3,4.6,6053.57,Delayed
+SHP10165,2026-03-06,Hubballi,Mangaluru,Road,BlueDart,973.5,18.86,38,1,4.4,8060.05,Delayed
+SHP10166,2026-04-09,Mysuru,Mumbai,Rail,Ecom Express,740.6,4.26,34,5,6.9,4642.84,Delayed
+SHP10167,2026-04-11,Bengaluru,Mangaluru,Road,BlueDart,1672.9,40.74,42,2,7.2,13442.81,Delayed
+SHP10168,2026-02-16,Pune,Chennai,Road,Delhivery,581.6,7.31,43,5,5.3,4964.64,Delayed
+SHP10169,2026-03-19,Hubballi,Mangaluru,Road,DTDC,529.1,52.16,40,5,6.9,5934.65,Delayed
+SHP10170,2026-01-03,Hyderabad,Chennai,Sea,DHL,1059.8,18.18,28,7,11.0,4666.13,Delayed
+SHP10171,2026-01-01,Pune,Hyderabad,Road,Ecom Express,760.3,999.0,28,1,4.2,6269.26,Delayed
+SHP10172,2026-01-05,Hubballi,Mumbai,Rail,DTDC,491.9,6.88,27,1,4.3,3109.77,Delayed
+SHP10173,2026-03-31,Hyderabad,Mumbai,Sea,DHL,942.7,25.46,42,1,7.5,4730.47,Delayed
+SHP10174,2026-04-29,Mysuru,Bengaluru,Road,DHL,373.3,14.42,34,7,7.3,3604.1,Delayed
+SHP10175,2026-01-14,Pune,Hubballi,Sea,BlueDart,521.0,10.87,33,4,7.2,2646.46,Delayed
+SHP10176,2026-04-13,Hyderabad,Chennai,Rail,Delhivery,694.9,3.15,46,5,6.7,4030.05,Delayed
+SHP10177,2026-01-27,Bengaluru,Bengaluru,Road,Delhivery,473.4,10.06,45,7,6.6,4146.31,On Time
+SHP10178,2026-01-09,Mysuru,Mangaluru,Road,DTDC,464.1,17.17,33,3,3.4,4076.58,Delayed
+SHP10179,2026-03-20,Bengaluru,Mangaluru,Air,Delhivery,560.6,20.46,36,2,2.6,10918.23,Delayed
+SHP10180,2026-01-15,Chennai,Bengaluru,Road,Ecom Express,542.8,4.57,27,4,4.9,4608.41,Delayed
+SHP10181,2026-03-31,Mangaluru,Mumbai,Sea,Delhivery,901.1,3.56,40,3,9.2,3767.08,Delayed
+SHP10182,2026-02-11,Pune,Mangaluru,Road,DTDC,708.6,2.19,45,5,6.6,5733.18,Delayed
+SHP10183,2026-03-18,Hyderabad,Pune,Air,Delhivery,1400.4,11.11,30,1,5.0,26051.55,Delayed
+SHP10184,2026-02-20,Mangaluru,Hyderabad,Road,Ecom Express,932.1,9.12,35,5,7.6,7105.83,Delayed
+SHP10185,2026-03-04,Mangaluru,Hyderabad,Air,BlueDart,548.9,26.33,40,7,5.9,10945.48,On Time
+SHP10186,2026-04-06,Hyderabad,Pune,Rail,DTDC,406.0,26.7,43,2,5.3,3523.74,Delayed
+SHP10187,2026-04-13,Mysuru,Bengaluru,Road,BlueDart,301.3,9.62,27,7,6.3,2712.11,On Time
+SHP10188,2026-04-23,Pune,Pune,Road,BlueDart,629.6,6.08,29,4,5.8,5069.77,Delayed
+SHP10189,2026-02-21,Chennai,Chennai,Road,BlueDart,367.7,16.21,26,4,4.4,3634.49,Delayed
+SHP10190,2026-04-06,Bengaluru,Chennai,Road,DHL,517.9,9.65,44,2,2.0,4590.09,On Time
+SHP10191,2026-01-04,Hubballi,Bengaluru,Road,DHL,712.7,6.42,33,3,5.1,250000.0,Delayed
+SHP10192,2026-04-04,Bengaluru,Pune,Rail,BlueDart,387.7,16.6,41,3,6.7,2823.29,Delayed
+SHP10193,2026-04-11,Hubballi,Chennai,Road,DTDC,743.4,4.34,31,4,6.7,6180.03,Delayed
+SHP10194,2026-01-23,Bengaluru,Mumbai,Air,Ecom Express,1153.8,21.4,39,4,6.8,22130.6,Delayed
+SHP10195,2026-04-13,Hyderabad,Pune,Sea,Ecom Express,638.1,10.85,34,1,7.8,3354.77,Delayed
+SHP10196,2026-04-19,Chennai,Mumbai,Rail,Delhivery,460.7,16.22,31,3,5.7,3315.16,Delayed
+SHP10197,2026-01-15,Pune,Chennai,Rail,DTDC,375.5,1.94,28,2,5.0,2311.43,Delayed
+SHP10198,2026-02-12,Hubballi,Hyderabad,Air,DHL,467.9,38.58,42,3,3.1,9802.96,Delayed
+SHP10199,2026-01-29,Pune,Chennai,Road,BlueDart,588.0,31.18,28,1,3.5,5650.69,Delayed
+SHP10200,2026-02-05,Pune,Mumbai,Road,Delhivery,970.0,12.32,37,7,8.6,7854.27,Delayed
+SHP10201,2026-01-13,Pune,Mysuru,Road,Ecom Express,463.8,11.53,36,4,6.2,4364.49,Delayed
+SHP10202,2026-02-01,Mumbai,Hubballi,Road,DHL,793.9,25.15,35,4,5.9,6987.36,Delayed
+SHP10203,2026-03-12,Mysuru,Mangaluru,Road,DHL,757.7,17.29,28,1,3.8,6119.01,Delayed
+SHP10204,2026-02-28,Bengaluru,Pune,Road,BlueDart,786.7,28.29,32,2,4.9,7095.71,Delayed
+SHP10205,2026-04-25,Pune,Mysuru,Sea,Ecom Express,878.2,4.39,37,4,9.4,3730.43,Delayed
+SHP10206,2026-03-27,Bengaluru,Chennai,Air,DTDC,1402.5,10.97,42,5,5.8,25933.05,Delayed
+SHP10207,2026-01-28,Pune,Hyderabad,Road,DHL,343.7,28.61,31,4,2.8,3770.76,On Time
+SHP10208,2026-03-07,Hubballi,Bengaluru,Road,BlueDart,947.6,8.79,38,5,6.4,7878.06,Delayed
+SHP10209,2026-02-11,Mysuru,Chennai,Road,DTDC,407.8,20.11,33,1,2.3,4509.03,Delayed
+SHP10210,2026-02-14,Mysuru,Hyderabad,Road,Ecom Express,497.5,14.78,36,1,3.1,4555.05,Delayed
+SHP10211,2026-03-03,Hyderabad,Hubballi,Road,DHL,252.5,15.19,32,4,4.5,2660.34,Delayed
+SHP10212,2026-02-26,Mumbai,Chennai,Air,DTDC,556.6,24.33,32,3,3.4,11246.25,Delayed
+SHP10213,2026-04-27,Hyderabad,Mumbai,Road,DTDC,960.7,17.54,37,5,8.3,8017.94,Delayed
+SHP10214,2026-01-06,Hyderabad,Bengaluru,Air,DTDC,679.6,16.48,31,2,3.9,13086.52,Delayed
+SHP10215,2026-01-28,Hyderabad,Hyderabad,Sea,DHL,720.7,13.55,36,4,8.8,3891.2,Delayed
+SHP10216,2026-01-28,Hyderabad,Hyderabad,Road,DHL,166.1,5.6,36,2,3.9,1844.13,Delayed
+SHP10217,2026-04-18,Hyderabad,Hyderabad,Air,Delhivery,382.0,19.19,44,4,2.9,7952.91,On Time
+SHP10218,2026-02-13,Chennai,Hubballi,Rail,Ecom Express,335.2,24.16,50,3,6.2,2989.39,Delayed
+SHP10219,2026-03-25,Mysuru,Chennai,Road,BlueDart,743.8,36.55,39,3,5.2,6904.65,Delayed
+SHP10220,2026-01-30,Hyderabad,Hubballi,Road,DTDC,262.8,9.45,46,3,4.7,2757.77,Delayed
+SHP10046,2026-03-03,Hyderabad,Chennai,Road,DHL,848.5,9.07,28,5,5.7,6844.36,Delayed
